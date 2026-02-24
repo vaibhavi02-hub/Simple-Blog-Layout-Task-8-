@@ -6,7 +6,7 @@ Cards component
 Grid system
 Footer with social icons
 ----------------------------------------
-Live Link:
+Live Link:  https://vaibhavi02-hub.github.io/Simple-Blog-Layout-Task-8-/
 ----------------------------------------
 🛠 Tools Used
 VS Code
